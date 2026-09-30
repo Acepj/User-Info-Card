@@ -1,4 +1,4 @@
-# 🍂 User Info Card
+# 🍂 User Info Cardd
 
 A simple interactive **User Info Card** website built with HTML5, CSS3, and JavaScript. The page allows users to enter personal information through a form and display their information in a separate card.
 
